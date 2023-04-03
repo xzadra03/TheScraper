@@ -1,6 +1,7 @@
 # TheScraper
 
 Pracuje s knihovnou Scrapy, ktera je dostupna na scrapy.org.
+Verze Pythonu 3.11.
 
 Cesta ke samotnemu scraperu je thescraper/thescraper/spiders
 
